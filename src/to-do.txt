@@ -1,0 +1,4 @@
+Grades
+Table in managestudents to drop a student
+delete options files in a class as a teacher
+Report and Documentation edit, black-white boxes
